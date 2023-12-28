@@ -16,6 +16,7 @@ Full Stuck Developer
 
 <p align="center"> <a href="https://www.github.com/zakariaelarfaoui" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/zakaria-el-arfaoui-0223b6215" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
+### 📊 GitHub Stats
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -37,6 +38,7 @@ Full Stuck Developer
 </table>
 <!--- stats (end) -->
 
+### 🏆 GitHub Trophies
 <!--- trophy (start) -->
 <div align=center>
   <a href="#" title="Go to Source">
@@ -48,6 +50,6 @@ Full Stuck Developer
 </p>        
 <!--- stats (end) -->
 
-<b>Top Repositories</b>
+### 🔝 Top Repositories
 
 <div width="100%" align="center"><a href="https://github.com/zakariaelarfaoui/FSJS-63-Booking" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zakariaelarfaoui&repo=FSJS-63-Booking&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/zakariaelarfaoui/Users-management-System" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zakariaelarfaoui&repo=Users-management-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
