@@ -4,7 +4,7 @@ Hi 👋 My name is Zakaria El Arfaoui
 Full Stuck Developer
 --------------------
 
-* 🌍  I'm based in Tanger
+* 🌍  I'm based in Tangier
 * ✉️  You can contact me at [zakaria.elarfaoui2105@gmail.com](mailto:zakaria.elarfaoui2105@gmail.com)
 
 ### Skills
