@@ -93,7 +93,6 @@ Full-Stack Developer with **3+ years** building production systems — from larg
 |---|---------|-------|
 | 01 | **20+ Module ERP from Scratch** — Angular SPA with role-based access, real-time notifications, shared component library for a US federal contracting firm. | `Angular` `Node.js` `MongoDB` `Socket.IO` `Azure` |
 | 02 | **Multi-Tenant SaaS with Schema Isolation** — Backend where each customer's data is completely isolated at the DB schema level. | `Django` `PostgreSQL` `Celery` `Azure` `Python` |
-| 03 | **Semantic Search & LLM Integration** — Search system using vector embeddings + pgvector + LLM to surface and summarize documents. | `PostgreSQL` `pgvector` `Django` `Celery` `LLM` |
 
 > Full write-ups on my [portfolio](https://github.com/zakariaelarfaoui).
 
